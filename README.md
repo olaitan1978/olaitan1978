@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olaitan1978
-- 👀 I’m interested in learning JavaScript
-- 🌱 I’m currently learning ..JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a web developer with knowledge in HTML,CSS and Javascript
+- 🌱 I’m currently working on a project
+- 💞️ I’m will like to work with anyone 
 - 📫 How to reach me ..08038058078.
 
 <!---
